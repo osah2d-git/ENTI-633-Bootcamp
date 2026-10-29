@@ -1,0 +1,15 @@
+fwd: wk41 numbers (sorry, pulled from 2 systems)
+
+STORE,SALES,PLAN,LY
+Calgary Chinook,"469,700",461400.00,$454.7K
+calgary crowfoot,$0.3884M,"378,600",373500
+EDMONTON SOUTH,427400,$442.4K,"432,600"
+STORE,SALES,PLAN,LY
+Edm West,$340.1K,337100,330800.00
+Red Deer,"220,500","210,600",
+Lethbridge,150300,163500,"159,000"
+TOTAL,1996400,1993600,n/a
+
+cats: outerwear 754,800 vs plan 757,600 / footwear $556.0K vs $538.3K / camping 386200 (plan 398700) / acc. 299,400, plan 299,000
+
+notes from store calls: Chinook says new parka wall is up. Crowfoot asked about holiday staffing again. Edm South had two staff off sick midweek but says traffic was normal. Red Deer LY figure missing from the extract, finance to resend. Lethbridge nothing to report. Reminder that the Q4 plan refresh lands Nov 6 and the format of this file will change after that.
